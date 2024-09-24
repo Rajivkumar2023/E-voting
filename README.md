@@ -8,4 +8,4 @@ Server: Apache Tomcat (Version 10.1.30)
 
 MySQL: Version 8.0.32 or higher   
 
-IDE: eclipse IDE  or Intellje  
+IDE: eclipse IDE  or Intellje  IDEA
